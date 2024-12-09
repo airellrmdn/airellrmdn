@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working as DevOps Engineer
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=airellrmdn&theme=travelers-theme)](https://git.io/streak-stats)
