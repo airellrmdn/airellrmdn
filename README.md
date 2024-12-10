@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as DevOps Engineer
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=js,expressjs,nodejs,mongodb,md,git,github,vscode,postman&perline=13)](#)
-  
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/airell-ramadhan-budiraharjo) 
+<br>😉 Please don't hesitate to approach me!
+
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=airellrmdn&theme=travelers-theme)](https://git.io/streak-stats)
