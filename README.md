@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <br>Please don't hesitate to approach me! 😉
 
 ## 🏆 My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=airellrmdn&theme=travelers-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=airellrmdn&theme=travelers-theme)](https://git.io/streak-stats)
