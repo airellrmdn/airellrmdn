@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👀 I love things around DevOps, cloud computing, software development, and IT Infrastructures.
 
 ## 🛠️ **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=gcp,aws,js,java,nodejs,c,docker,jenkins,git,gitlab,linux,kubernetes,postgres,mongodb,prometheus,grafana&perline=12)](#)
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,js,java,nodejs,python,c,docker,jenkins,git,gitlab,linux,kubernetes,postgres,mongodb,prometheus,grafana&perline=12)](#)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/airell-ramadhan-budiraharjo) 
