@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as DevOps Engineer.
 - 🌱 I’m currently learning ![GO](https://img.shields.io/badge/-Go-000?&logo=Go) and sharpening my skills in DevOps practice and Cloud Computing.
-- 👀 I love things around DevOps, cloud computing, software development, backend, and IT Infrastructures.
+- 👀 I love things around DevOps, cloud computing, software development (backend), and IT Infrastructures.
 
 ## 🛠️ **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,js,java,nodejs,python,c,docker,jenkins,git,gitlab,linux,kubernetes,postgres,mongodb,prometheus,grafana&perline=12)](#)
