@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,js,java,nodejs,python,c,docker,jenkins,git,gitlab,linux,kubernetes,postgres,mongodb,prometheus,grafana&perline=12)](#)
 -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/airell-ramadhan-budiraharjo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/airellramadhan) 
 <br>Please don't hesitate to approach me! 😉
 
 ## 🏆 My GitHub Stats:
